@@ -29,6 +29,9 @@ const Navegacion = () => {
                             <Link to='/personajes' className="nav-link" aria-disabled="true">Personajes</Link>
                         </li>
                         <li className="nav-item">
+                            <Link to='/nombre' className="nav-link" aria-disabled="true">Nombre</Link>
+                        </li>
+                        <li className="nav-item">
                             <a 
                                 className="nav-link" 
                                 aria-disabled="true"

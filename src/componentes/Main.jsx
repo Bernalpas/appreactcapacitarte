@@ -1,5 +1,5 @@
 import '../css/Main.css';
-import logo from '../assets/logo.svg';
+import logo from '../assets/twitter-x.svg';
 
 
 
